@@ -1,3 +1,24 @@
+# 📚 AI Study Assistant
+
+🚀 **Live Demo:** https://aistudyassistantfrontend.onrender.com
+
+AI-powered study assistant that generates flashcards and quizzes from any topic.
+
+## Features
+- AI Flashcards
+- Interactive Quiz
+- JSON Validation (Zod)
+- React + Express + Groq API
+
+## Tech Stack
+- React
+- Express.js
+- Groq API
+- Zod
+- Axios
+
+
+
 # AI Study Assistant
 
 ## Features
