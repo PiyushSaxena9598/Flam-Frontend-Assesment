@@ -7,7 +7,7 @@ const api = axios.create({
 
 export const generateStudyMaterial = async (prompt, signal) => {
   const response = await api.post(
-    "/generate",
+    "/api/generate",
     { prompt },
     { signal }
   );
